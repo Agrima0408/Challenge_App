@@ -1,4 +1,4 @@
-package embarkx.ChallengeApp;
+package com.embarkx.ChallengeApp;
 
 public class Challenges {
     private long id;
